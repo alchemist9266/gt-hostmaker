@@ -11,4 +11,4 @@ python3 gthostmaker.py
 - Helped by Numex
 
 # Screenshot
-![](https://github.com/leak37/gt-hostmaker/blob/main/20210111_173040.jpg)
+![](https://github.com/leak37/gt-hostmaker/blob/main/20210111_191512.jpg)
