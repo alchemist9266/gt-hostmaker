@@ -11,4 +11,4 @@ python3 gthostmaker.py
 - Helped by Numex
 
 # Screenshot
-! [] (
+! [] (20210111_173040.jpg)
